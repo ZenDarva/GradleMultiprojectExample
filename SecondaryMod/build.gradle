@@ -1,6 +1,6 @@
 version = "1.0.0"
 group = "com.mainmod" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "MainMod"
+archivesBaseName = "SecondaryMod"
 
 
 dependencies {
