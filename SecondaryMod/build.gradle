@@ -4,5 +4,5 @@ archivesBaseName = "MainMod"
 
 
 dependencies {
-    deobfCompile project(":MainMod")
+    compile project(":MainMod")
 }
